@@ -1,5 +1,4 @@
 from ipaddress import ip_address
-from ntpath import isfile
 from pathlib import Path
 
 def extractIPs():
